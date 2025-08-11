@@ -32,10 +32,12 @@ This ensures **data consistency**, **scalable reporting**, and **faster business
 
 **Environments Used**:  
 **Test Environment**  
+-DATA SETS:
 - products(1)  
 - Test+environment+inventory+Dataset(1)  
 
 **Production Environment**  
+-DATASETS:
 - products+(1)  
 - Prod+environment+inventory+Dataset  
 
